@@ -69,3 +69,14 @@
     font-family: 'Gabriela', serif;
     
   }
+  .what-we-do {
+	font-family: 'Quattrocento', serif;
+	text-align: center;
+	padding-top: 40px;
+	font-family: 'Gabriela', serif;
+	
+}
+
+.what-we-do .heading {
+	padding-bottom: 38px;
+}
