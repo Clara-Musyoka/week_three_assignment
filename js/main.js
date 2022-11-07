@@ -11,6 +11,22 @@
       }
       
     });
+
+    $("#whole-design").click(function(){
+        $("#design").toggle();
+        $("#design-image").toggle();
+    });
+
+    $("#whole-development").click(function(){
+        $("#development").toggle();
+        $("#developmet-image").toggle();
+    });
+    $("#whole-product").click(function(){
+        $("#product").toggle();
+        $("#product-image").toggle();
+    });
+
+    
   
   });
 
